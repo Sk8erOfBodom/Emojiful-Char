@@ -1,0 +1,400 @@
+- name: zelo
+  location: "assets/charfriends/zelo.png"
+  strings:
+    - ':zelo:'
+- name: yuyuEVL
+  location: "assets/charfriends/yuyuEVL.png"
+  strings:
+    - ':yuyuEVL:'
+- name: youmuPOG
+  location: "assets/charfriends/youmuPOG.png"
+  strings:
+    - ':youmuPOG:'
+- name: youmPOG
+  location: "assets/charfriends/youmPOG.png"
+  strings:
+    - ':youmPOG:'
+- name: ww
+  location: "assets/charfriends/ww.png"
+  strings:
+    - ':ww:'
+- name: woah
+  location: "assets/charfriends/woah.png"
+  strings:
+    - ':woah:'
+- name: uwu
+  location: "assets/charfriends/uwu.png"
+  strings:
+    - ':uwu:'
+- name: TogameBlush
+  location: "assets/charfriends/TogameBlush.png"
+  strings:
+    - ':TogameBlush:'
+- name: thonkisaki
+  location: "assets/charfriends/thonkisaki.png"
+  strings:
+    - ':thonkisaki:'
+- name: tetouwu
+  location: "assets/charfriends/tetouwu.png"
+  strings:
+    - ':tetouwu:'
+- name: tetosmugkuri
+  location: "assets/charfriends/tetosmugkuri.png"
+  strings:
+    - ':tetosmugkuri:'
+- name: tetoexcite
+  location: "assets/charfriends/tetoexcite.png"
+  strings:
+    - ':tetoexcite:'
+- name: tetodrill
+  location: "assets/charfriends/tetodrill.png"
+  strings:
+    - ':tetodrill:'
+- name: tetired
+  location: "assets/charfriends/tetired.png"
+  strings:
+    - ':tetired:'
+- name: smugLaff
+  location: "assets/charfriends/smugLaff.png"
+  strings:
+    - ':smugLaff:'
+- name: saddest
+  location: "assets/charfriends/saddest.png"
+  strings:
+    - ':saddest:'
+- name: rubap
+  location: "assets/charfriends/rubap.png"
+  strings:
+    - ':rubap:'
+- name: remi
+  location: "assets/charfriends/remi.png"
+  strings:
+    - ':remi:'
+- name: peeqi
+  location: "assets/charfriends/peeqi.png"
+  strings:
+    - ':peeqi:'
+- name: patcheWAH
+  location: "assets/charfriends/patcheWAH.png"
+  strings:
+    - ':patcheWAH:'
+- name: owobot
+  location: "assets/charfriends/owobot.png"
+  strings:
+    - ':owobot:'
+- name: ouo
+  location: "assets/charfriends/ouo.png"
+  strings:
+    - ':ouo:'
+- name: O_w_o
+  location: "assets/charfriends/O_w_o.png"
+  strings:
+    - ':O_w_o:'
+- name: nya
+  location: "assets/charfriends/nya.png"
+  strings:
+    - ':nya:'
+- name: notlikealice
+  location: "assets/charfriends/notlikealice.png"
+  strings:
+    - ':notlikealice:'
+- name: momocheer
+  location: "assets/charfriends/momocheer.png"
+  strings:
+    - ':momocheer:'
+- name: mokous
+  location: "assets/charfriends/mokous.png"
+  strings:
+    - ':mokous:'
+- name: miku
+  location: "assets/charfriends/miku.png"
+  strings:
+    - ':miku:'
+- name: Melee_Gay
+  location: "assets/charfriends/Melee_Gay.png"
+  strings:
+    - ':Melee_Gay:'
+- name: mariYAY
+  location: "assets/charfriends/mariYAY.png"
+  strings:
+    - ':mariYAY:'
+- name: liedown
+  location: "assets/charfriends/liedown.png"
+  strings:
+    - ':liedown:'
+- name: leekbap2
+  location: "assets/charfriends/leekbap2.png"
+  strings:
+    - ':leekbap2:'
+- name: leekbap
+  location: "assets/charfriends/leekbap.png"
+  strings:
+    - ':leekbap:'
+- name: leek2
+  location: "assets/charfriends/leek2.png"
+  strings:
+    - ':leek2:'
+- name: leek
+  location: "assets/charfriends/leek.png"
+  strings:
+    - ':leek:'
+- name: kumiheh
+  location: "assets/charfriends/kumiheh.png"
+  strings:
+    - ':kumiheh:'
+- name: kumi_eyes
+  location: "assets/charfriends/kumi_eyes.png"
+  strings:
+    - ':kumi_eyes:'
+- name: Koieyes
+  location: "assets/charfriends/Koieyes.png"
+  strings:
+    - ':Koieyes:'
+- name: kevsmile
+  location: "assets/charfriends/kevsmile.png"
+  strings:
+    - ':kevsmile:'
+- name: kebin
+  location: "assets/charfriends/kebin.png"
+  strings:
+    - ':kebin:'
+- name: kannawave
+  location: "assets/charfriends/kannawave.png"
+  strings:
+    - ':kannawave:'
+- name: kannasurprise
+  location: "assets/charfriends/kannasurprise.png"
+  strings:
+    - ':kannasurprise:'
+- name: kannaspook
+  location: "assets/charfriends/kannaspook.png"
+  strings:
+    - ':kannaspook:'
+- name: kannasleep
+  location: "assets/charfriends/kannasleep.png"
+  strings:
+    - ':kannasleep:'
+- name: kannasipp
+  location: "assets/charfriends/kannasipp.png"
+  strings:
+    - ':kannasipp:'
+- name: kannapogg
+  location: "assets/charfriends/kannapogg.png"
+  strings:
+    - ':kannapogg:'
+- name: kannapog
+  location: "assets/charfriends/kannapog.png"
+  strings:
+    - ':kannapog:'
+- name: kannapat
+  location: "assets/charfriends/kannapat.png"
+  strings:
+    - ':kannapat:'
+- name: kannalaw
+  location: "assets/charfriends/kannalaw.png"
+  strings:
+    - ':kannalaw:'
+- name: kannainspect
+  location: "assets/charfriends/kannainspect.png"
+  strings:
+    - ':kannainspect:'
+- name: kannafuckyou
+  location: "assets/charfriends/kannafuckyou.png"
+  strings:
+    - ':kannafuckyou:'
+- name: kannaconfuse
+  location: "assets/charfriends/kannaconfuse.png"
+  strings:
+    - ':kannaconfuse:'
+- name: hwat
+  location: "assets/charfriends/hwat.png"
+  strings:
+    - ':hwat:'
+- name: hmmm
+  location: "assets/charfriends/hmmm.png"
+  strings:
+    - ':hmmm:'
+- name: hearttrans
+  location: "assets/charfriends/hearttrans.png"
+  strings:
+    - ':hearttrans:'
+- name: heartrans
+  location: "assets/charfriends/heartrans.png"
+  strings:
+    - ':heartrans:'
+- name: heartpride
+  location: "assets/charfriends/heartpride.png"
+  strings:
+    - ':heartpride:'
+- name: heartpan
+  location: "assets/charfriends/heartpan.png"
+  strings:
+    - ':heartpan:'
+- name: heartnb
+  location: "assets/charfriends/heartnb.png"
+  strings:
+    - ':heartnb:'
+- name: heartlesbian
+  location: "assets/charfriends/heartlesbian.png"
+  strings:
+    - ':heartlesbian:'
+- name: heartdemi
+  location: "assets/charfriends/heartdemi.png"
+  strings:
+    - ':heartdemi:'
+- name: heartbi
+  location: "assets/charfriends/heartbi.png"
+  strings:
+    - ':heartbi:'
+- name: heartace
+  location: "assets/charfriends/heartace.png"
+  strings:
+    - ':heartace:'
+- name: fufu
+  location: "assets/charfriends/fufu.png"
+  strings:
+    - ':fufu:'
+- name: flan_wahoo
+  location: "assets/charfriends/flan_wahoo.png"
+  strings:
+    - ':flan_wahoo:'
+- name: flan_cwy
+  location: "assets/charfriends/flan_cwy.png"
+  strings:
+    - ':flan_cwy:'
+- name: flan_ble
+  location: "assets/charfriends/flan_ble.png"
+  strings:
+    - ':flan_ble:'
+- name: FaShion
+  location: "assets/charfriends/FaShion.png"
+  strings:
+    - ':FaShion:'
+- name: dangohug
+  location: "assets/charfriends/dangohug.png"
+  strings:
+    - ':dangohug:'
+- name: claudinePout
+  location: "assets/charfriends/claudinePout.png"
+  strings:
+    - ':claudinePout:'
+- name: ciryes
+  location: "assets/charfriends/ciryes.png"
+  strings:
+    - ':ciryes:'
+- name: cirno
+  location: "assets/charfriends/cirno.png"
+  strings:
+    - ':cirno:'
+- name: chrug
+  location: "assets/charfriends/chrug.png"
+  strings:
+    - ':chrug:'
+- name: chloelook
+  location: "assets/charfriends/chloelook.png"
+  strings:
+    - ':chloelook:'
+- name: cherylJoy
+  location: "assets/charfriends/cherylJoy.png"
+  strings:
+    - ':cherylJoy:'
+- name: cherylBlush
+  location: "assets/charfriends/cherylBlush.png"
+  strings:
+    - ':cherylBlush:'
+- name: charyawn2
+  location: "assets/charfriends/charyawn2.png"
+  strings:
+    - ':charyawn2:'
+- name: charyawn
+  location: "assets/charfriends/charyawn.png"
+  strings:
+    - ':charyawn:'
+- name: charsob
+  location: "assets/charfriends/charsob.png"
+  strings:
+    - ':charsob:'
+- name: charshook
+  location: "assets/charfriends/charshook.png"
+  strings:
+    - ':charshook:'
+- name: charmomo
+  location: "assets/charfriends/charmomo.png"
+  strings:
+    - ':charmomo:'
+- name: charhug2
+  location: "assets/charfriends/charhug2.png"
+  strings:
+    - ':charhug2:'
+- name: charhug
+  location: "assets/charfriends/charhug.png"
+  strings:
+    - ':charhug:'
+- name: charhappy
+  location: "assets/charfriends/charhappy.png"
+  strings:
+    - ':charhappy:'
+- name: CharCute
+  location: "assets/charfriends/CharCute.png"
+  strings:
+    - ':CharCute:'
+- name: charchar
+  location: "assets/charfriends/charchar.png"
+  strings:
+    - ':charchar:'
+- name: charblech
+  location: "assets/charfriends/charblech.png"
+  strings:
+    - ':charblech:'
+- name: celslep
+  location: "assets/charfriends/celslep.png"
+  strings:
+    - ':celslep:'
+- name: cele
+  location: "assets/charfriends/cele.png"
+  strings:
+    - ':cele:'
+- name: blok
+  location: "assets/charfriends/blok.png"
+  strings:
+    - ':blok:'
+- name: bapuwu
+  location: "assets/charfriends/bapuwu.png"
+  strings:
+    - ':bapuwu:'
+- name: bapped2
+  location: "assets/charfriends/bapped2.png"
+  strings:
+    - ':bapped2:'
+- name: bappas
+  location: "assets/charfriends/bappas.png"
+  strings:
+    - ':bappas:'
+- name: bapmara
+  location: "assets/charfriends/bapmara.png"
+  strings:
+    - ':bapmara:'
+- name: bapcirno
+  location: "assets/charfriends/bapcirno.png"
+  strings:
+    - ':bapcirno:'
+- name: bap
+  location: "assets/charfriends/bap.png"
+  strings:
+    - ':bap:'
+- name: AzulHalo
+  location: "assets/charfriends/AzulHalo.png"
+  strings:
+    - ':AzulHalo:'
+- name: alicepeek
+  location: "assets/charfriends/alicepeek.png"
+  strings:
+    - ':alicepeek:'
+- name: aliAAA
+  location: "assets/charfriends/aliAAA.png"
+  strings:
+    - ':aliAAA:'
+- name: ah
+  location: "assets/charfriends/ah.png"
+  strings:
+    - ':ah:'
