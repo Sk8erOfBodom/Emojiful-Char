@@ -62,14 +62,10 @@
   location: "assets/charfriends/saddest.png"
   strings:
     - ':saddest:'
-- name: rubap
-  location: "assets/charfriends/rubap.png"
+- name: rubybapped
+  location: "assets/charfriends/rubybapped.png"
   strings:
-    - ':rubap:'
-- name: remi
-  location: "assets/charfriends/remi.png"
-  strings:
-    - ':remi:'
+    - ':rubybapped:'
 - name: peeqi
   location: "assets/charfriends/peeqi.png"
   strings:
@@ -122,22 +118,22 @@
   location: "assets/charfriends/liedown.png"
   strings:
     - ':liedown:'
-- name: leekbap2
-  location: "assets/charfriends/leekbap2.png"
+- name: leekbapleft
+  location: "assets/charfriends/leekbapleft.png"
   strings:
-    - ':leekbap2:'
-- name: leekbap
-  location: "assets/charfriends/leekbap.png"
+    - ':leekbapleft:'
+- name: leekbapright
+  location: "assets/charfriends/leekbapright.png"
   strings:
-    - ':leekbap:'
-- name: leek2
-  location: "assets/charfriends/leek2.png"
+    - ':leekbapright:'
+- name: leekright
+  location: "assets/charfriends/leekright.png"
   strings:
-    - ':leek2:'
-- name: leek
-  location: "assets/charfriends/leek.png"
+    - ':leekright:'
+- name: leekleft
+  location: "assets/charfriends/leekleft.png"
   strings:
-    - ':leek:'
+    - ':leekleft:'
 - name: kumiheh
   location: "assets/charfriends/kumiheh.png"
   strings:
@@ -322,10 +318,6 @@
   location: "assets/charfriends/charmomo.png"
   strings:
     - ':charmomo:'
-- name: charhug2
-  location: "assets/charfriends/charhug2.png"
-  strings:
-    - ':charhug2:'
 - name: charhug
   location: "assets/charfriends/charhug.png"
   strings:
@@ -354,30 +346,18 @@
   location: "assets/charfriends/cele.png"
   strings:
     - ':cele:'
-- name: blok
-  location: "assets/charfriends/blok.png"
+- name: transparent
+  location: "assets/charfriends/transparent.png"
   strings:
-    - ':blok:'
-- name: bapuwu
-  location: "assets/charfriends/bapuwu.png"
+    - ':transparent:'
+- name: charbapped
+  location: "assets/charfriends/charbapped.png"
   strings:
-    - ':bapuwu:'
-- name: bapped2
-  location: "assets/charfriends/bapped2.png"
+    - ':charbapped:'
+- name: marabapped
+  location: "assets/charfriends/marabapped.png"
   strings:
-    - ':bapped2:'
-- name: bappas
-  location: "assets/charfriends/bappas.png"
-  strings:
-    - ':bappas:'
-- name: bapmara
-  location: "assets/charfriends/bapmara.png"
-  strings:
-    - ':bapmara:'
-- name: bapcirno
-  location: "assets/charfriends/bapcirno.png"
-  strings:
-    - ':bapcirno:'
+    - ':marabapped:'
 - name: bap
   location: "assets/charfriends/bap.png"
   strings:
@@ -398,3 +378,7 @@
   location: "assets/charfriends/ah.png"
   strings:
     - ':ah:'
+- name: lillabapped
+  location: "assets/charfriends/lillabapped.png"
+  strings:
+    - ':lillabapped:'
