@@ -70,10 +70,10 @@
   location: "assets/charfriends/peeqi.png"
   strings:
     - ':peeqi:'
-- name: patcheWAH
-  location: "assets/charfriends/patcheWAH.png"
+- name: patcheWAH2
+  location: "assets/charfriends/patcheWAH2.png"
   strings:
-    - ':patcheWAH:'
+    - ':patcheWAH2:'
 - name: owobot
   location: "assets/charfriends/owobot.png"
   strings:
@@ -398,3 +398,7 @@
   location: "assets/charfriends/DefokoWerko.png"
   strings:
     - ':DefokoWerko:'
+- name: 02note
+  location: "assets/charfriends/02note.png"
+  strings:
+    - ':02note:'
