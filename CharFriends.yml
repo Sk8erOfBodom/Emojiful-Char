@@ -382,3 +382,19 @@
   location: "assets/charfriends/lillabapped.png"
   strings:
     - ':lillabapped:'
+- name: lukabehh
+  location: "assets/charfriends/lukabehh.png"
+  strings:
+    - ':lukabehh:'
+- name: lukanom
+  location: "assets/charfriends/lukanom.png"
+  strings:
+    - ':lukanom:'
+- name: DefokoRPG
+  location: "assets/charfriends/DefokoRPG.png"
+  strings:
+    - ':DefokoRPG:'
+- name: DefokoWerko
+  location: "assets/charfriends/DefokoWerko.png"
+  strings:
+    - ':DefokoWerko:'
